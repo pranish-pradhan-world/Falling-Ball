@@ -1,2 +1,2 @@
 # Falling-Ball
-A game to the make the ball fall . . .
+A game to make the ball fall . . .
